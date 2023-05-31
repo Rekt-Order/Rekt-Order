@@ -4,4 +4,5 @@
 </p>
 
 
-![trophy](https://github-profile-trophy.vercel.app/?username=Rekt-Order](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=Rekt-Order&theme=dracul&column=7
+)](https://github.com/ryo-ma/github-profile-trophy)
