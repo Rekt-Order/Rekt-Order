@@ -1,5 +1,2 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Rekt-Order
-&layout=compact)]
-(https://github.com/anuraghazra/github-readme-stats)
-
-
+)](https://github.com/anuraghazra/github-readme-stats)
