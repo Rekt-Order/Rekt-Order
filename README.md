@@ -1,6 +1,5 @@
 <div align="center">
 
-  <h1>👋 こんにちは、Rekt-Orderです！</h1>
   <p>私のGitHubプロフィールへようこそ。私のスキルや活動状況をご覧ください。</p>
   <br>
 
@@ -31,30 +30,6 @@
   </p>
   <br>
 
-  <h2>📝 プロフィールサマリー</h2>
-  <div> <p align="center">
-      <a href="https://github.com/vn7n24fzkq/github-profile-summary-cards">
-        <img src="https://raw.githubusercontent.com/Rekt-Order/Rekt-Order/main/profile-summary-card-output/vue/0-profile-details.svg" alt="プロフィール詳細"/>
-      </a>
-    </p>
-    <p align="center">
-      <a href="https://github.com/vn7n24fzkq/github-profile-summary-cards">
-        <img src="https://raw.githubusercontent.com/Rekt-Order/Rekt-Order/main/profile-summary-card-output/vue/1-repos-per-language.svg" alt="言語ごとのリポジトリ"/>
-      </a>
-      <a href="https://github.com/vn7n24fzkq/github-profile-summary-cards">
-        <img src="https://raw.githubusercontent.com/Rekt-Order/Rekt-Order/main/profile-summary-card-output/vue/2-most-commit-language.svg" alt="最もコミット数の多い言語"/>
-      </a>
-    </p>
-    <p align="center">
-      <a href="https://github.com/vn7n24fzkq/github-profile-summary-cards">
-        <img src="https://raw.githubusercontent.com/Rekt-Order/Rekt-Order/main/profile-summary-card-output/vue/3-stats.svg" alt="統計"/>
-      </a>
-      <a href="https://github.com/vn7n24fzkq/github-profile-summary-cards">
-        <img src="https://raw.githubusercontent.com/Rekt-Order/Rekt-Order/main/profile-summary-card-output/vue/4-productive-time.svg" alt="生産的な時間"/>
-      </a>
-    </p>
-  </div>
-  <br>
 
   <h2>🔗 コミュニティ & リンク</h2>
   <p align="center">
